@@ -1,7 +1,7 @@
 @Library('roboshop') _
 
 
-java(
+python(
 
     COMPONENT     : 'shipping',
     LABEL         : 'work'
